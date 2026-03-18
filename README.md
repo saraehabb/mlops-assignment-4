@@ -22,3 +22,4 @@ To automate validation of a machine learning model using CI/CD practices.
 pip install -r requirements.txt
 python test_model.py
 ```
+
